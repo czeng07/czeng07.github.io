@@ -21,6 +21,13 @@ a {
 a:hover {
     text-decoration: underline;
 }
+.centered img{
+  position: fixed;
+  top: 10%;
+  left: 50%;
+  margin-top: -10px;
+  margin-left: -100px;
+}
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
